@@ -1,0 +1,437 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 32
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:golden_axe",
+                                    "minecraft:golden_hoe",
+                                    "minecraft:golden_pickaxe",
+                                    "minecraft:golden_shovel",
+                                    "minecraft:golden_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 59
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:wooden_axe",
+                                    "minecraft:wooden_hoe",
+                                    "minecraft:wooden_pickaxe",
+                                    "minecraft:wooden_shovel",
+                                    "minecraft:wooden_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 131
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:stone_axe",
+                                    "minecraft:stone_hoe",
+                                    "minecraft:stone_pickaxe",
+                                    "minecraft:stone_shovel",
+                                    "minecraft:stone_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 250
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:iron_axe",
+                                    "minecraft:iron_hoe",
+                                    "minecraft:iron_pickaxe",
+                                    "minecraft:iron_shovel",
+                                    "minecraft:iron_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 1561
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:diamond_axe",
+                                    "minecraft:diamond_hoe",
+                                    "minecraft:diamond_pickaxe",
+                                    "minecraft:diamond_shovel",
+                                    "minecraft:diamond_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 2031
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:netherite_axe",
+                                    "minecraft:netherite_hoe",
+                                    "minecraft:netherite_pickaxe",
+                                    "minecraft:netherite_shovel",
+                                    "minecraft:netherite_sword"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 64
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": [
+                                    "minecraft:brush",
+                                    "minecraft:fishing_rod",
+                                    "minecraft:flint_and_steel"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 25
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:carrot_on_a_stick"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 238
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:shears"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 336
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:shield"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 384
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:bow"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 250
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:trident"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 465
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:crossbow"]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "condition": "minecraft:all_of",
+            "terms": [
+                {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                            "type": "minecraft:fixed",
+                            "name": "$damage"
+                        },
+                        "score": "pk.temp"
+                    },
+                    "range": 100
+                },
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "equipment": {
+                            "mainhand": {
+                                "items": ["minecraft:warped_fungus_on_a_stick"]
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
