@@ -47,7 +47,7 @@ function pk_better_item_frames:packages/damage_tool/load
 # ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― 
 # Updates:
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
-execute unless score $pk.be_it.version pk.value matches 1 run function pk_better_item_frames:base/update/start
+execute unless score $pk.be_it.version pk.value matches 2 run function pk_better_item_frames:base/update/start
 
 # ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― 
 # Logs:
