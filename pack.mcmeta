@@ -1,11 +1,6 @@
 {
-    "id": "pk.better_item_frames",
     "pack": {
-        "pack_format": 41,
-        "supported_formats": {
-            "min_inclusive": 41,
-            "max_inclusive": 41
-        },
-        "description": "KawaMood's Better Item Frames V.3.0.1 for Minecraft 1.20.5 to 1.20.6"
+        "pack_format": 15,
+        "description": "KawaMood's Better Item Frames V.2.0.1 - For MC 1.20 to 1.20.4"
     }
 }
