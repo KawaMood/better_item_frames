@@ -31,7 +31,7 @@ It won't turn visible or unfix the rotation of already modified item frames, tho
 
 The command to start the uninstalling process is the following one: 
 ```
-/function pk_better_item_frames:cmd/uninstall
+/function pk_be_it:cmd/uninstall
 ```
 
 # 🪠 Report an issue
