@@ -1,9 +1,17 @@
-# **Better Item Frames V.3**
+# **Better Item Frames V.2.0.1**
 
 **Invisible & fixed item frames in Survival!**
 
 Easily turn your (glow or regular) item frames invisible or visible in Survival!  
 You can also lock your item frames rotation to avoid miss-click issues.
+
+# ⚠️ This data pack is now outdated
+
+**This version of the data pack is for MC 1.20 to 1.20.4**  
+If you're using a more recent of Minecraft, check other branches of the project, or the main one to get the most update version this data pack is available on. 
+
+Note that these versions don't contain all features most recent ones do, and aren't supported anymore.
+If you're about to use them on a modified version of Minecraft (with plugins or mods), the data pack could not work as intended.
 
 # 🪄 How to use?
 ## Make Invisible item frames
@@ -31,7 +39,7 @@ It won't turn visible or unfix the rotation of already modified item frames, tho
 
 The command to start the uninstalling process is the following one: 
 ```
-/function pk_better_item_frames:cmd/uninstall
+/function pk_better_item_frames:base/uninstall/start
 ```
 
 # 🪠 Report an issue
