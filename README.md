@@ -1,4 +1,4 @@
-# **Better Item Frames V.3**
+# **Better Item Frames**
 
 **Invisible & fixed item frames in Survival!**
 
