@@ -21,6 +21,19 @@ The background will then be glued back to the item frame, making it visible. Thi
 In order to lock item frame rotation, you can right-click an item frame while sneaking and having Glass Panes in the main hand.  
 It will consume a Glass Pane, as if it was fixed on the item frame. The item itself can be changed, but it won't be able to be rotated anymore. In order to unlock the rotation, you will need to break the item frame, and place it back.
 
+# ⚙️Settings
+
+<details>
+<summary>Always turn item frames visible when empty</summary>
+
+If enabled, item frames will automatically turn visible back if a player removes its item. You can **enable**, **disable** or **get** the current state of the setting using these following commands respectively:
+```
+/function pk_be_it:settings/visible_when_empty/true
+/function pk_be_it:settings/visible_when_empty/false
+/function pk_be_it:settings/visible_when_empty/get
+```
+</details>
+
 # 🧹 Uninstall
 
 Better Item Frames comes with an uninstallation process. Running it will:
