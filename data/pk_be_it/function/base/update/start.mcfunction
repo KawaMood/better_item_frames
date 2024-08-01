@@ -5,5 +5,5 @@
 execute unless score $pk.be_it.version pk.value matches 30000.. run function pk_be_it:base/update/versions/3_0_0
 
 # Set the data pack current version score
-scoreboard players set $pk.be_it.version pk.value 30001
-data modify storage pk:common installed_datapacks[{id:"better_item_frames"}].version set value "3.0.1"
+scoreboard players set $pk.be_it.version pk.value 30002
+data modify storage pk:common installed_datapacks[{id:"better_item_frames"}].version set value "3.0.2"
