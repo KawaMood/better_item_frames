@@ -5,6 +5,11 @@
 Easily turn your (glow or regular) item frames invisible or visible in Survival!  
 You can also lock your item frames rotation to avoid miss-click issues.
 
+> [!WARNING]  
+> **This presentation concerns the latest available version of the data pack for Minecraft 1.21.9 to 1.21.11.**  
+> To find the most recent version, check the [main](https://github.com/KawaMood/better_item_frames) branch.  
+> For other versions, check other [branches](https://github.com/KawaMood/better_item_frames/branches/all).
+
 # 🪄 How to use?
 ## Make Invisible item frames
 
