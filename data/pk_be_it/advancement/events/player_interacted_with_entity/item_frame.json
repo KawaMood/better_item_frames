@@ -8,7 +8,7 @@
                         "condition": "minecraft:entity_properties",
                         "entity": "this",
                         "predicate": {
-                            "type": "#pk_be_it:item_frames"
+                            "minecraft:entity_type": "#pk_be_it:item_frames"
                         }
                     }
                 ]
