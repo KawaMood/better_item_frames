@@ -1,4 +1,4 @@
-#> pk_be_it:base/update/versions/3
+#> pk_be_it:_main/update/versions/3
 # Update to 3.0.0
 
 data remove storage pk.common:data Datapacks[{Name:"Better Item Frames"}]

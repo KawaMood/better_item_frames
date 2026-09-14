@@ -1,4 +1,4 @@
-#> pk_be_it:base/uninstall/remove_specific_features
+#> pk_be_it:_main/uninstall/remove_specific_features
 
 # Clear score
 scoreboard objectives remove pk.be_it.item_rotation

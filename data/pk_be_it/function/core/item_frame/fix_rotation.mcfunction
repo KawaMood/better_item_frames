@@ -4,7 +4,7 @@
 tag @s add pk.be_it.rotation_fixed
 
 # Remove one pane glass
-item modify entity @a[tag=pk.current.player,gamemode=!creative,distance=..30,limit=1] weapon.mainhand [{function:"minecraft:set_count",count:-1,add:true}]
+item modify entity @a[tag=pk.current.player,gamemode=!creative,distance=..30,limit=1] weapon.mainhand [{type:"minecraft:set_count",count:-1,add:true}]
 
 # Animations
 playsound block.amethyst_block.resonate player @a[distance=..30] ~ ~ ~

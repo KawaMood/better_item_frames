@@ -1,4 +1,4 @@
-#> pk_be_it:base/uninstall/remove_all_features
+#> pk_be_it:_main/uninstall/remove_all_features
 
 # Clear scores
 scoreboard objectives remove pk.value
